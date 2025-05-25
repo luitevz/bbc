@@ -1,0 +1,8 @@
+! BBC iPlayer domains
+||bbc.co.uk
+||bbc.com
+||iplayer.bbc.co.uk
+||emp.bbci.co.uk
+||a.files.bbci.co.uk
+||vod-dash-uk-live.akamaized.net
+||vod-dash-uk-vod.akamaized.net
